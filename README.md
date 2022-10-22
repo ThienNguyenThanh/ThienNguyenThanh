@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThienNguyenThanh
-- 👀 I’m interested in Data Science field.
-- 🌱 I’m currently learning about machine learning, deep learning.
+- 👀 I’m interested in Software Engineering field.
+- 🌱 I’m currently learning about backend stuffs.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/thien-nguyen-715111201/)
 
 <!---
